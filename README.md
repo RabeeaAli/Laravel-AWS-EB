@@ -1,6 +1,6 @@
-# Config Laravel app 
+# Laravel & AWS EB
 
-### before deploying run these command: 
+### before deploying app run these command: 
 
 ```
 $ chmod +x .platform/hooks/prebuild/*.sh
