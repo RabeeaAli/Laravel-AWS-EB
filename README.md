@@ -1,10 +1,10 @@
 # Laravel & AWS EB
 
-### before deploying app run these command: 
-
 #### Step1: nginx file
 #### step2: queue and other files
 #### step3: ssl files
+
+### run these command: 
 
 ```
 $ chmod +x .platform/hooks/prebuild/*.sh
