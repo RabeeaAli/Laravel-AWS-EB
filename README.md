@@ -1,10 +1,10 @@
 # Laravel & AWS EB
 
 #### Step1: nginx file
-#### step2: queue and other files
-#### step3: ssl files
+#### Step2: queue and other files
+#### Step3: ssl files
 
-### run these command: 
+### Run these commands: 
 
 ```
 $ chmod +x .platform/hooks/prebuild/*.sh
