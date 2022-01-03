@@ -3,8 +3,8 @@
 ### before deploying app run these command: 
 
 #### Step1: niginx file
-### step2: queue and other files
-### step3: ssl files
+#### step2: queue and other files
+#### step3: ssl files
 
 ```
 $ chmod +x .platform/hooks/prebuild/*.sh
