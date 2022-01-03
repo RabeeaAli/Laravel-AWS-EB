@@ -2,7 +2,7 @@
 
 ### before deploying app run these command: 
 
-#### Step1: niginx file
+#### Step1: nginx file
 #### step2: queue and other files
 #### step3: ssl files
 
